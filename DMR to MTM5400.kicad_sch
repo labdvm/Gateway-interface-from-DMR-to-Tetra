@@ -2817,9 +2817,9 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "PTT"
+	(text "Ext MIC PTT"
 		(exclude_from_sim no)
-		(at 55.372 75.438 0)
+		(at 56.642 74.676 0)
 		(effects
 			(font
 				(face "Arial")
@@ -2861,7 +2861,7 @@
 		)
 		(uuid "a27ecd68-d2ab-4fba-8ad5-eaf594b4b760")
 	)
-	(text "GPIO"
+	(text "PL/Talkgroup Detect"
 		(exclude_from_sim no)
 		(at 55.626 69.088 0)
 		(effects
